@@ -1,7 +1,9 @@
 # 👋 Hi, I’m @tetrapod3dev
+
 - 👀 I’m interested in Spring boot
 - 🌱 I’m currently learning 3D print
 - 📫 How to reach me [tetrapod3dev.github.io](https://tetrapod3dev.github.io)
+- 🔗 My previous GitHub account: [@taerok (trpark)](https://github.com/taerok)
 
 <!---
 tetrapod3dev/tetrapod3dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
